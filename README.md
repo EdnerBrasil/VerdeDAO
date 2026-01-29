@@ -161,13 +161,13 @@ Modelo híbrido (recomendado):
 ### 6.1 Fluxo de Governança → Execução → Evidências
 ```mermaid
 flowchart LR
-  A[Comunidade / Núcleos Locais] --> B[Proposta de Núcleo Verde / Bounty / Microgrant]
-  B --> C[Votação Off-chain (priorização)]
-  C -->|Aprovada| D[Tesouraria MultiSig (execução)]
+  A[Comunidade e Nucleos Locais] --> B[Proposta: Nucleo Verde ou Bounty]
+  B --> C[Votacao offchain]
+  C -->|Aprovada| D[Tesouraria multisig]
   D --> E[Repasse por marcos]
-  E --> F[Implantação / Manutenção (campo)]
-  F --> G[Evidências + Indicadores (GitHub/Docs)]
-  G --> H[Ativo Ambiental Auditável (registro/histórico)]
-  H --> I[Relatório Público + Métricas]
+  E --> F[Implantacao e manutencao]
+  F --> G[Evidencias e indicadores]
+  G --> H[Registro auditavel]
+  H --> I[Relatorio publico e metricas]
   C -->|Reprovada| J[Revisar proposta]
   J --> B
