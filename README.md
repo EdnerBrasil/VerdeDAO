@@ -12,11 +12,11 @@ O objetivo é materializar a **ideia** da DAO (nome, missão, governança, comun
 4. [Gestão de Comunidade e Contribuição](#4-gestão-de-comunidade-e-contribuição)
 5. [Tesouraria e Financiamento](#5-tesouraria-e-financiamento)
 6. [Arquitetura e Implementação (Visão Conceitual)](#6-arquitetura-e-implementação-visão-conceitual)
-7. [Roadmap Inicial (90 dias)](#7-roadmap-inicial-90-dias)
+7. [Roadmap Inicial (90 dias)](docs/roadmap/roadmap-90-dias.md)
 8. [Métricas de Sucesso](#8-métricas-de-sucesso)
 9. [Como Contribuir](#9-como-contribuir)
-10. [Templates](#10-templates)
-11. [Licença](#11-licença)
+10. [Templates](templates/)
+11. [Licença](LICENSE)
 
 ---
 
